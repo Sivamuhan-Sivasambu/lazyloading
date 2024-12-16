@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eMlwQ2jIeni0HIV9GaALlAWNwJ7Gi8ZKNiuSAPtrzSk=",
+  "Source": "LazyLoading.Server",
+  "BasePath": "_content/LazyLoading.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

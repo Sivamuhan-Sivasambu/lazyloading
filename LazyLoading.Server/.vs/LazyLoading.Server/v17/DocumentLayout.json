@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\POC\\LazyLoading\\LazyLoading.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B0793E-2C66-41E1-8415-8D4067E21E96}|LazyLoading.Server.csproj|c:\\projects\\poc\\lazyloading\\lazyloading.server\\controllers\\lazydatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B0793E-2C66-41E1-8415-8D4067E21E96}|LazyLoading.Server.csproj|solutionrelative:controllers\\lazydatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B0793E-2C66-41E1-8415-8D4067E21E96}|LazyLoading.Server.csproj|c:\\projects\\poc\\lazyloading\\lazyloading.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B0793E-2C66-41E1-8415-8D4067E21E96}|LazyLoading.Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B0793E-2C66-41E1-8415-8D4067E21E96}|LazyLoading.Server.csproj|c:\\projects\\poc\\lazyloading\\lazyloading.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B0793E-2C66-41E1-8415-8D4067E21E96}|LazyLoading.Server.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\POC\\LazyLoading\\LazyLoading.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\POC\\LazyLoading\\LazyLoading.Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:11:28.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LazydataController.cs",
+              "DocumentMoniker": "C:\\Projects\\POC\\LazyLoading\\LazyLoading.Server\\Controllers\\LazydataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LazydataController.cs",
+              "ToolTip": "C:\\Projects\\POC\\LazyLoading\\LazyLoading.Server\\Controllers\\LazydataController.cs",
+              "RelativeToolTip": "Controllers\\LazydataController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:41:25.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\POC\\LazyLoading\\LazyLoading.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Projects\\POC\\LazyLoading\\LazyLoading.Server\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:41:02.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
