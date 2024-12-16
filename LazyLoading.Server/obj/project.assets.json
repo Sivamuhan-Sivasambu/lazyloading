@@ -467,11 +467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\POC\\LazyLoading\\LazyLoading.Server\\LazyLoading.Server.csproj",
+      "projectUniqueName": "C:\\Projects\\POC\\lazyloading\\LazyLoading.Server\\LazyLoading.Server.csproj",
       "projectName": "LazyLoading.Server",
-      "projectPath": "C:\\Projects\\POC\\LazyLoading\\LazyLoading.Server\\LazyLoading.Server.csproj",
+      "projectPath": "C:\\Projects\\POC\\lazyloading\\LazyLoading.Server\\LazyLoading.Server.csproj",
       "packagesPath": "C:\\Users\\Sivamuhan.Sivasambu\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\POC\\LazyLoading\\LazyLoading.Server\\obj\\",
+      "outputPath": "C:\\Projects\\POC\\lazyloading\\LazyLoading.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5wR2vcJiHOJCnm7jJGX/HGcMsLbAwTpSUTdYO/h8Sewhv2m59OGbgPbzOd2ryv19r3Ag8jWPZXrQ7/CLFamGdQ==",
+  "dgSpecHash": "Lao1CtZF13BWtoyU0YS9Z9WmCiZ/Wuhf480BYnQDk9+Co6NkQDLiWEhzLcBie93H5jw3Aoztw/PcDZWhSluecQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\POC\\LazyLoading\\LazyLoading.Server\\LazyLoading.Server.csproj",
+  "projectFilePath": "C:\\Projects\\POC\\lazyloading\\LazyLoading.Server\\LazyLoading.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sivamuhan.Sivasambu\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512",
     "C:\\Users\\Sivamuhan.Sivasambu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

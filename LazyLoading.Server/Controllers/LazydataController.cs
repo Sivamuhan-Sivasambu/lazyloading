@@ -22,7 +22,6 @@ namespace LazyLoading.Server.Controllers
         [HttpGet(Name = "GetLazyData")]
         public List<User> GetLazyData(int? pageNumber, int? pageSize)
         {
-            
             var numberOfRecordToskip = (pageNumber ?? 0) * (pageSize ?? 50);
             return _sampleData.Skip(Convert.ToInt32(numberOfRecordToskip)).Take( pageSize ?? 50).OrderBy(x => x.Id).ToList();
         }

@@ -23,19 +23,12 @@ const LazyGrid = () => {
         });
     }, []);
 
-
     const handleScroll = async (e: any) => {
         const target = e.currentTarget;
-        target.scrollHeight
         const height = target.clientHeight as number;
 
-        /* Debugging:
-        console.log('clientHeight', height )
-        console.log('clientHeight', height )
-        */
         // Firefox, Chrome and Edge has a deviation of 1 or 2 when checking scroll position at the bottom
         if (([Math.floor(target.scrollHeight - target.scrollTop), Math.floor(target.scrollHeight - target.scrollTop + 1)]).includes(height)) {
-
             console.log('We are at the bottom');
             getMyLazyData<User[]>(`https://localhost:7223/Lazydata?pageNumber=${page + 1}&pageSize=${pageSize}`).then(response => {
                 setUsers([...users, ...response]);
@@ -45,12 +38,12 @@ const LazyGrid = () => {
         }
     };
 
-
     return (
         <>
             <div>page Size: {pageSize} - Page No: {page} -  Total Rows in Grid: {users.length}</div>
             <div className="lazy-grid-container" onScroll={handleScroll}>
                 <table>
+                    {/* TODO: Make header dynamic using keys and make it stick to the top */}
                     <thead>
                         <tr>
                             <th>Name</th>
@@ -60,9 +53,9 @@ const LazyGrid = () => {
                     </thead>
                     <tbody>
                         {
+                            // Make this as a function
                             users.map((item) => (
                                 <tr>
-
                                     <td>{item.name}</td>
                                     <td>{item.lastName}</td>
                                     <td>{item.lastName}</td>
